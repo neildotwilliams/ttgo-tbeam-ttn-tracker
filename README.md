@@ -76,3 +76,6 @@ I also developed [The Things Network Tracker (TTN-Tracker)](https://github.com/k
 ![T-BEAM-Rev1-01](img/T-BEAM-Rev1-01.jpg)
 
 ![T-BEAM-Rev1-02](img/T-BEAM-Rev1-02.jpg)
+
+#### Rev1.1
+![T-BEAM-Rev1.1](img/ESP32-TTGO-T-Beam-V1.1.jpg)
